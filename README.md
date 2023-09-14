@@ -61,7 +61,3 @@ npm start
 ## License
 
 MIT Licensed
-
-## Author
-
-Johann Dowa
